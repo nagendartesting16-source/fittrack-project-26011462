@@ -6,3 +6,6 @@ Features:
 
 User authentication
 Workout tracking
+
+Task 5: Bug Fix
+Change "January 2026" to "February 2026" in the file
